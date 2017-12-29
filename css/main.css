@@ -21,14 +21,14 @@ body {
   margin: 0;
 }
 
-section {
+section .wrapper {
   font-family: "Noto Sans", sans-serif;
   background-color: #e5c30a;
   position: absolute;
   width: 100%;
 }
 
-section h1 {
+section h2 {
   font-weight: bold;
   margin-bottom: 0;
   margin-bottom: .5rem;
@@ -39,6 +39,6 @@ section h1 {
   float: left;
 }
 
-p {
+section p {
   margin-top: 0;
 }
