@@ -64,6 +64,24 @@ section p {
     font-size: 110%;
     line-height: 1.4;
   }
+
+  .img-flex {
+    float: right;
+    display: inline;
+    width: 25%;
+  }
+
+  .section-letter {
+    float: left;
+  }
+
+  .section-logo {
+    float: right;
+  }
+
+  .section-body {
+    display: inline;
+  }
 }
 
 @media only screen and (min-width: 60em) {
