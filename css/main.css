@@ -19,6 +19,7 @@ html {
 
 body {
   margin: 0;
+  overflow: hidden;
 }
 
 section {
@@ -34,8 +35,8 @@ section h2 {
 }
 
 .img-flex {
-  display: inline;
-  width: 50%;
+  display: inline-block;
+  width: 140px;
   height: 140px;
   float: left;
   margin: auto;
