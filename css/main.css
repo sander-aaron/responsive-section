@@ -26,10 +26,13 @@ header {
   background-color: #e5c30a;
   position: absolute;
   width: 100%;
+  font-size: 1.5rem;
 }
 
 header h1 {
   font-weight: bold;
+  margin-bottom: 0;
+  margin-bottom: .5rem;
 }
 
 img {
@@ -37,10 +40,6 @@ img {
   float: left;
 }
 
-.dragon-letter {
-
-}
-
-.dragon {
-
+p {
+  margin-top: 0;
 }
