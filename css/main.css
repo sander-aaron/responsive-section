@@ -36,6 +36,7 @@ section h2 {
 .img-flex {
   display: inline;
   width: 50%;
+  height: 140px;
   float: left;
   margin: auto;
 }
