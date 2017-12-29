@@ -29,7 +29,7 @@ section {
 }
 
 section h2 {
-  font-weight: 700;
+  font-weight: bold 700;
   margin-bottom: .5rem;
 }
 
@@ -46,7 +46,7 @@ section p {
 }
 
 .section-body {
-  padding: 0 1rem 0 1rem;
+  padding: 0 1rem;
 
 }
 
